@@ -1,0 +1,125 @@
+body{
+	margin: 0px;
+	padding: 0px.;
+	color: black;
+	font-family: roboto;
+	background-color: #f8F9FA;
+
+}
+p{
+	font-size: 18px;
+	display: justify;
+}
+mark{
+	font-weight: bold;
+	background-color: white;
+}
+a{
+	color: #B6B6B6;
+}
+.navbar-nav{
+	padding: 4px;
+}
+.navbar-brand{
+	font-size:1.90rem;
+	color: #CFEAFD;
+
+}
+.button1{
+	border-radius: 2rem;
+	opacity: 0.5;
+	width: 250px;
+	height: 50px;
+	background-color: #E9EBEE;
+	border: transparent;
+}
+.form-control{
+	width: 200px;
+	background-image:url("/home/avadai/Documents/PROJECT/New/IMG/search (copy).png");
+		background-position: right;
+		background-repeat: no-repeat;
+		background-size: 15px;
+		border: transparent;
+		background-color: #E9EBEE;
+
+}
+
+.fab{
+  color: #1299EE;
+  background-color:white;
+  font-size: 50px;
+  padding-top: 4px;
+}
+ 
+.content1 p{
+		font-size: 20px;
+}
+.hyper1 p{
+	
+	max-width: 380px;
+}
+
+#footer{
+	background-color: #363c42;
+	color: #848A84;
+	padding:20px 10% ;
+}
+#footer li{
+	list-style-type: none;
+	color:#ECECED ;
+}
+
+
+.foot{
+background-color: #25292D;
+padding: 2%;
+color: #B6B6B6;
+	font-size: 13px;
+}
+.foot li a{
+	color:white;
+}
+.far{
+	color: #1299EE;
+  background-color:white;
+  font-size: 40px;
+  margin: 2px;
+}
+.hyp{
+	color: #1299EE;
+}
+
+.text-center a{
+	color: #008AE4;
+	text-decoration:  underline dotted black;
+}
+
+.btn-lg{
+		width: 500px;
+		height: 80px;
+		margin-bottom: 20px;
+}
+.btn-primary{
+	background-color: #1299EE;
+}
+.btn-default{
+	border-color:2px solid black;
+	box-shadow: 10px 10px grey;
+}
+.content1{
+	padding: 20px 20px;
+}
+	.btn-default:hover{
+		background-color: #1299EE;
+}
+	li:hover{
+	color: black !important;
+}
+
+
+
+.content1{
+	text-align: left;
+	text-align: center;
+  margin: 500px;
+}
